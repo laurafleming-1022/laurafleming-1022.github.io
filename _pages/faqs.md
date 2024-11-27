@@ -20,7 +20,7 @@ Q: Why is a virtual Reiki session less expensive than an in-person session?
 A: The in-person sessions have an additional fee to cover the costs associated with renting a studio space. The virtual sessions do not have this fee.
 
 Q: Why is your Reiki bundle for six sessions?
-A: This bundle was designed based on [this paper]:{%https://www.chi.is/media/viz/pdf/Shore.04.pdf%}, which showed that six weekly Reiki treatments had significant effects on depression and anxiety over placebo Reiki, even after one year of receiving treatment. This bundle is intended that you have the six treatments within a 6-12 week period for maximum effect, but you are free to use them at your own pace.
+A: This bundle was designed based on this paper, which showed that six weekly Reiki treatments had significant effects on depression and anxiety over placebo Reiki, even after one year of receiving treatment. This bundle is intended that you have the six treatments within a 6-12 week period for maximum effect, but you are free to use them at your own pace.
 
 Q: My PDF viewer won’t let me fill out your appointment form. What should I do?
 A: Unfortunately our fillable forms don’t work with all PDF viewers. We recommend Preview or Adobe Acrobat. If that doesn’t work, you can fill out a paper copy at your appointment.
