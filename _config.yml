@@ -25,7 +25,7 @@ baseurl:          "" # the subpath of your site, e.g. /blog
 url:              "https://lotusblossomreiki.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  laurafleming-1022
 locale:           "en-US"
-logo:             "assets/dogHead.png"
+logo:             "assets/logo_placeholder.png"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.25.0"
@@ -59,10 +59,10 @@ include:
 
 author:
   name             : "Laura Zanca"
-  avatar           : "/assets/logoS.png"
+  avatar           : "/assets/logo_placeholder.png"
   bio              : 
   location         : "Cambridge, MA"
-  email            : contact@lotusblossomreiki.com
+  email            : hello@lotusblossomreiki.com
   #links:
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
