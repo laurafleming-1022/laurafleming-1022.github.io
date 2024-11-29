@@ -18,7 +18,7 @@ A: Reiki has helped clients with depression, anxiety, pain management, and more.
 
 Q: Why are you named “Lotus Blossom Reiki?”
 
-A: Many Buddhists bow as a form of greeting. This has different meanings for different people. One meaning is that the hands represent a beautiful lotus blossom, which we are offering as a gift to the other person. Another meaning is that one hand represents the mind, and one hand represents the body, and we are bringing them together. To me, a lotus represents the beautiful gift of bringing your mind and body together, offering your true presence as a gift to yourself and those around you. 
+A: Many Buddhists bow as a form of greeting. This has different meanings for different people. One meaning is that the hands represent a beautiful lotus blossom, which we are offering as a gift to the other person. Another meaning is that one hand represents the mind, and one hand represents the body, and we are bringing them together. To me, a lotus represents the beautiful gift of bringing your mind and body together, offering your true presence to yourself and those around you. 
 
 Q: Why is a virtual Reiki session less expensive than an in-person session?
 
