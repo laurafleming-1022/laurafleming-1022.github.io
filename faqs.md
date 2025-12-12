@@ -5,7 +5,7 @@ layout: single
 ---
 Q: What is Reiki?
 
-A: Reiki is a simple, gentle energy technique that can be administered with or without touch, and can be used for stress reduction, relaxation, and overall wellbeing. **It is not a replacement for medical care or therapy.** It is complementary to traditional health care. 
+A: Reiki is a simple, gentle energy technique that can be administered with or without touch, and can be used for stress reduction, relaxation, and overall wellbeing. **It is not a replacement for medical care or therapy.** It is complementary to traditional health care. It was discovered by Dr. Mikao Usui in 1922. 
 
 Q: How does Reiki work?
 
