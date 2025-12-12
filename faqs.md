@@ -5,7 +5,7 @@ layout: single
 ---
 Q: What is Reiki?
 
-A: Reiki is a simple, gentle energy technique that can be administered with or without touch, and can be used for stress reduction, relaxation, and overall wellbeing. **It is not a replacement for medical care or therapy.** It is complementary to traditional health care. It was discovered by Dr. Mikao Usui in 1922. 
+A: Reiki is a simple, gentle energy technique that can be administered with or without touch, and can be used for stress reduction, relaxation, and overall wellbeing. **It is not a replacement for medical care or therapy.** It is complementary to traditional health care. It was discovered by Mikao Usui in 1922. 
 
 Q: How does Reiki work?
 
@@ -25,7 +25,7 @@ A: Many Buddhists bow as a form of greeting. This has different meanings for dif
 
 Q: Why is your Reiki bundle for six sessions?
 
-A: This bundle was designed based on this paper, which showed that six weekly Reiki treatments had significant effects on depression and anxiety over placebo Reiki, even after one year of receiving treatment. This bundle is intended that you have the six treatments within a 6-12 week period for maximum effect, but you are free to use them at your own pace.
+A: This bundle was designed based on [this paper](https://www.chi.is/media/viz/pdf/Shore.04.pdf), which showed that six weekly Reiki treatments had significant effects on depression and anxiety over placebo Reiki, even after one year of receiving treatment. This bundle is intended that you have the six treatments within a 6-12 week period for maximum effect, but you are free to use them at your own pace.
 
 Q: My PDF viewer won’t let me fill out your appointment form. What should I do?
 
