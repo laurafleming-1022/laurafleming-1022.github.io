@@ -3,6 +3,9 @@ title: FAQs
 permalink: /faqs/
 layout: single
 ---
+Q: What is Reiki?
+
+A: Reiki is a simple, gentle energy technique that can be administered with or without touch, and can be used for stress reduction, relaxation, and overall wellbeing. **It is not a replacement for medical care or therapy.** It is complementary to traditional health care. 
 
 Q: How does Reiki work?
 
@@ -19,10 +22,6 @@ A: Reiki has helped clients with depression, anxiety, pain management, and more.
 Q: Why are you named “Lotus Blossom Reiki?”
 
 A: Many Buddhists bow as a form of greeting. This has different meanings for different people. One meaning is that the hands represent a beautiful lotus blossom, which we are offering as a gift to the other person. Another meaning is that one hand represents the mind, and one hand represents the body, and we are bringing them together. To me, a lotus represents the beautiful gift of bringing your mind and body together, offering your true presence as a gift to yourself and those around you. 
-
-Q: Why is a virtual Reiki session less expensive than an in-person session?
-
-A: The in-person sessions have an additional fee to cover the costs associated with renting a studio space. The virtual sessions do not have this fee.
 
 Q: Why is your Reiki bundle for six sessions?
 
