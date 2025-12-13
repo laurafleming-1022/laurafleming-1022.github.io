@@ -13,7 +13,7 @@ A: Reiki is a universal healing energy that all of us are connected to and all o
 
 Q: Wow, that sounds really “woo-woo”! How does it really work?
 
-A: There are a lot of different mechanisms that I believe are working in tandem to make Reiki so powerful. These include nervous system regulation, endocrine system regulation, fascia, electromagnetic waves from the brain and the heart, neuroplasticity, etc. I’ll be writing more in-depth blogs going over each element, so stay tuned!
+A: There are a lot of different mechanisms that I believe are working in tandem to make Reiki so powerful. These include nervous system regulation, endocrine system regulation, fascia, neuroplasticity, etc. I’ll be writing more in-depth blogs going over each element, so stay tuned!
 
 Q: What sorts of things can Reiki help with?
 
